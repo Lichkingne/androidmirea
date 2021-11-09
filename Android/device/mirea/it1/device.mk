@@ -7,7 +7,7 @@ PRODUCT_MANUFACTURER := MIREA # производитель, указываетс
 
 
 PRODUCT_PROPERTY_OVERRIDES := \
-	ro.product.first_api_level=25
+	ro.product.first_api_level=29
 
 PRODUCT_DEFAULT_PROPERTY_OVERRIDES += \
 	ro.secure=0 \
